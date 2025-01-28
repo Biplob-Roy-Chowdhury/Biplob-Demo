@@ -1,4 +1,3 @@
 # Biplob-Demo
-This is my first  Repository
- Software Engineering Student
-📚 Studying at Daffodil International University
+This is my first Git  Repository.
+Author -Biplob Roy Chowdhury Likhon
